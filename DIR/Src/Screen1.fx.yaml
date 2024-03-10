@@ -1,14 +1,20 @@
 Screen1 As screen:
 
     Label1 As label:
-        Text: ="Texto"
-        X: =190
-        Y: =310
+        Text: ="Olá Mundo"
+        X: =100
+        Y: =248
         ZIndex: =1
 
     Button1 As button:
-        Text: ="Botão"
-        X: =190
+        Text: ="Path"
+        X: =124
         Y: =396
         ZIndex: =2
+
+    Icon1 As icon.ZoomIn:
+        Icon: =Icon.ZoomIn
+        X: =300
+        Y: =276
+        ZIndex: =3
 

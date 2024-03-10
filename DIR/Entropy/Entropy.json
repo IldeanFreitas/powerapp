@@ -5,12 +5,13 @@
     "App": 1,
     "Button1": 6,
     "Host": 3,
+    "Icon1": 7,
     "Label1": 5,
     "Screen1": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "03/10/2024 01:21:44",
+  "HeaderLastSavedDateTimeUTC": "03/10/2024 01:24:56",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
@@ -23,13 +24,15 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 1,
+    "button": 2,
+    "icon": 1,
     "label": 0
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Button1": {},
     "Host": {},
+    "Icon1": {},
     "Label1": {},
     "Screen1": {}
   },
@@ -39,6 +42,7 @@
     "App": 0,
     "Button1": 1,
     "Host": 0,
+    "Icon1": 0,
     "Label1": 0,
     "Screen1": 0
   },
